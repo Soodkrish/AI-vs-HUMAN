@@ -30,7 +30,7 @@ Each project compares AI-generated results with human logic or decision paths. S
 
 ---
 
-## Who This Is For
+## THIS IS FOR THOSE
 
 This repository is ideal for:
 
