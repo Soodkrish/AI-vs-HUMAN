@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae695c8a-8b67-4dfd-83a5-6a228158eb10)# Human vs AI: Analytics and Experiments
+# Human vs AI: Analytics and Experiments
 
 This repository explores the differences between human decision-making and AI-driven approaches in various data-focused tasks. It includes real-world projects, analytics, and models designed to test, compare, and evaluate how each performs under different scenarios.
 
