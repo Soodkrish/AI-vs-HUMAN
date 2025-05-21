@@ -1,4 +1,4 @@
-# Human vs AI: Analytics and Experiments
+![image](https://github.com/user-attachments/assets/ae695c8a-8b67-4dfd-83a5-6a228158eb10)# Human vs AI: Analytics and Experiments
 
 This repository explores the differences between human decision-making and AI-driven approaches in various data-focused tasks. It includes real-world projects, analytics, and models designed to test, compare, and evaluate how each performs under different scenarios.
 
@@ -19,7 +19,51 @@ Each project compares AI-generated results with human logic or decision paths. S
 
 ---
 ## Findings and Results
----
+<p align="center">
+  <img src="Assets/a1, tests.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/evaluation.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/last g.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/Picture2.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/news portfolio.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/reddit portfolio.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/human_portfolio.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/stacked_allocation and results.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/radar chart.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Assets/emotion_scores_across_subreddits.png" width="600">
+</p>
+
+** This is a real time intraday trading model-it selected stocks only based on the sentiments of the headlines from  AUG 1 2024 - SEPT 31 2024 (8 week comparison). 
+
+## if you want i can share all the analysis which i used for my dissertation.(more indepth analysis and explaination).
+
+
 ## What's Included
 
 - Code for both AI and human-based strategies
