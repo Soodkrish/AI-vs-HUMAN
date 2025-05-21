@@ -52,7 +52,7 @@ Each project compares AI-generated results with human logic or decision paths. S
 </p>
 
 <p align="center">
-  <img src="Assets/radar chart.png" width="600">
+  <img src="Assets/radar_chart.png" width="600">
 </p>
 
 <p align="center">
