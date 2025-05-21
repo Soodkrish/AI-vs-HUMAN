@@ -18,7 +18,7 @@ This project includes a range of experiments, with a strong focus on areas like:
 Each project compares AI-generated results with human logic or decision paths. Some are designed to run live, while others use historical data for backtesting and benchmarking.
 
 ---
-## RIGHT NOW WORKING ON THE COMPARING THE PERFORMANCES OF BOTH-WILL UPDATE IT IN A FEW DAYS
+## Findings and Results
 ---
 ## What's Included
 
