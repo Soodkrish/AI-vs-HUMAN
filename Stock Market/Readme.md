@@ -62,7 +62,7 @@ Each project compares AI-generated results with human logic or decision paths. S
 ** This is a real time intraday trading model-it selected stocks only based on the sentiments of the headlines from  AUG 1 2024 - SEPT 31 2024 (8 week comparison). 
 
 ## if you want i can share all the analysis which i used for my dissertation.(more indepth analysis and explaination).
-
+## With tables of stocks for each week and model.(intotal 24 tables 3x8weeks)
 
 ## What's Included
 
